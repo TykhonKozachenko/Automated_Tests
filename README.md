@@ -6,9 +6,9 @@
 - **Fill Tank** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/fill_tank/blob/tests/readme.md) | [solution](https://github.com/TykhonKozachenko/fill_tank/commit/009cfed8e8ad2f298f83c497d1ff6aeda8e07a9f)
 
 ## Data Restoration and Validation
-- **Validate Form**
-- **Validate Email**
-- **Check Password**
+- **Validate Registration Form**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/validate_form/blob/tests/README.md) | [solution](https://github.com/TykhonKozachenko/validate_form/commit/09cfb40a70239771c461c4a4dfd2b519c2783e18)
+- **Validate Email**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/validate_email/blob/tests/README.md) | [solution](https://github.com/TykhonKozachenko/validate_email/commit/558897a78759fdf86e1b1ab6d62523c0e8541065)
+- **Check Password**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/check_password/blob/tests/README.md) | [solution](https://github.com/TykhonKozachenko/check_password/commit/50c70612b2670fcacc0fc3eecdf4a5e2580a871f)
 - **Is Password Actual**  ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/is_password_actual/blob/tests/README.md) | [solution](https://github.com/TykhonKozachenko/is_password_actual/commit/3c790d5fae44e7837844ee7a4aa2a7dfde283efe)
 - **Restore Names** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/restore_names/blob/tests/readme.md) | [solution](https://github.com/TykhonKozachenko/restore_names/commit/9c49c3227212a35040b4f42f4cc32cfcaa8ddf67)
 
