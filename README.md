@@ -2,7 +2,7 @@
 ###### Implementations I've provided for various tasks.
 
 - **Array Reduce Method** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/array_method_reduce/blob/tests/readme.md) | [solution](https://github.com/TykhonKozachenko/array_method_reduce/commit/4d9d6aa878517fd76e916fa5776fdbd1ed7cd001)
-- **Unary Function Chainer** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/unary_function_chainer/blob/tests/readme.md) | [solution](https://github.com/TykhonKozachenko/unary_function_chainer/commit/8eb63668cd0c40275b2a032d4629562dae626c04)
+- **Unary Function Chainer** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/unary_function_chainer/blob/tests/readme.md) | solutions: [v1](https://github.com/TykhonKozachenko/unary_function_chainer/commit/8eb63668cd0c40275b2a032d4629562dae626c04), [v2](https://github.com/TykhonKozachenko/unary_function_chainer/commit/59ed34ffd1dfcb8cd5f5447c69896230eb88cf46)
 - **If / Else Function** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/if_else_function/blob/tests/readme.md) | [solution](https://github.com/TykhonKozachenko/if_else_function/commit/133f0ddaba5d84856ed7b8a537d5e2bd6dcb9cce)
 - **Fill Tank** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/fill_tank/blob/tests/readme.md) | [solution](https://github.com/TykhonKozachenko/fill_tank/commit/009cfed8e8ad2f298f83c497d1ff6aeda8e07a9f)
 - **Restore Names** ‎ ‎    =>‎‎   ‎ ‎  [readme](https://github.com/TykhonKozachenko/restore_names/blob/tests/readme.md) | solutions: [v1](https://github.com/TykhonKozachenko/restore_names/commit/9c49c3227212a35040b4f42f4cc32cfcaa8ddf67), [v2](https://github.com/TykhonKozachenko/restore_names/commit/736e158e0a933bdcea195f68e6f2b6a4ace228c9)
